@@ -3,7 +3,7 @@
 <title>Nitro Generator</title>
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Ahmet Nitro Token">
+<meta property="og:title" content="TAKTAK26 Nitro Token">
 <meta property="og:description" content="Discord Token Generator">
 <meta property="og:url" content="http://sitesgithub.github.io/nitro/index.html">
 <meta property="og:image" content="https://images.discordapp.net/avatars/482584715673600026/3813e13cf3e89eb5ab314dcda58f5d96.png?size=512">
