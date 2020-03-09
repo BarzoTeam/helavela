@@ -64,7 +64,7 @@ button:active {
 }
 </style>
 <div>
-<h1 style="font-family: Bebas; color: #c70202">AHMET Best Discord Nitro Generator</h1>
+<h1 style="font-family: Bebas; color: #c70202">AHMETt Best Discord Nitro Generator</h1>
 <textarea id="a" rows="11" cols="100" readonly="" style="resize: none;">T-Nitro
 </textarea>
 <p></p>
